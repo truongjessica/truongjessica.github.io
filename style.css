@@ -5,26 +5,18 @@ body {
   font-size: x-large;
   max-width: 50%;
   margin: auto;
+  height: 100%;
 }
 
 a {
-  color:#f8f8ff;
+  color: #f8f8ff;
   text-decoration: none;
 }
 
 a:visited {
-  color:#f8f8ff;
+  color: #f8f8ff;
 }
 
-.comp {
-  color: #D3D3D3;
+.underline {
+  border-bottom: 2px solid #f8f8ff;
 }
-
-/* .comp img {
-  position: absolute; 
-  display: none; 
-}
-
-.comp:hover img { 
-  display: block; 
-} */
